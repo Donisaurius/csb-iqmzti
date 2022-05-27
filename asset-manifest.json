@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://donisaurius.github.io/csb-iqmzti/static/css/main.2b70d8f4.chunk.css",
+    "main.js": "https://donisaurius.github.io/csb-iqmzti/static/js/main.dad1543f.chunk.js",
+    "main.js.map": "https://donisaurius.github.io/csb-iqmzti/static/js/main.dad1543f.chunk.js.map",
+    "runtime-main.js": "https://donisaurius.github.io/csb-iqmzti/static/js/runtime-main.9ba6ba26.js",
+    "runtime-main.js.map": "https://donisaurius.github.io/csb-iqmzti/static/js/runtime-main.9ba6ba26.js.map",
+    "static/js/2.9eb0dad2.chunk.js": "https://donisaurius.github.io/csb-iqmzti/static/js/2.9eb0dad2.chunk.js",
+    "static/js/2.9eb0dad2.chunk.js.map": "https://donisaurius.github.io/csb-iqmzti/static/js/2.9eb0dad2.chunk.js.map",
+    "index.html": "https://donisaurius.github.io/csb-iqmzti/index.html",
+    "static/css/main.2b70d8f4.chunk.css.map": "https://donisaurius.github.io/csb-iqmzti/static/css/main.2b70d8f4.chunk.css.map",
+    "static/js/2.9eb0dad2.chunk.js.LICENSE.txt": "https://donisaurius.github.io/csb-iqmzti/static/js/2.9eb0dad2.chunk.js.LICENSE.txt",
+    "static/media/audio.3b1cd6a3.svg": "https://donisaurius.github.io/csb-iqmzti/static/media/audio.3b1cd6a3.svg",
+    "static/media/styles.css": "https://donisaurius.github.io/csb-iqmzti/static/media/bg.46e9610b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ba6ba26.js",
+    "static/js/2.9eb0dad2.chunk.js",
+    "static/css/main.2b70d8f4.chunk.css",
+    "static/js/main.dad1543f.chunk.js"
+  ]
+}
